@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Hugo
+
+<p align="center">
+  <img src="baner.jpeg" width="100%" />
+</p>
 
 ### Full Stack Developer · Backend · DevOps · Data & AI
 
